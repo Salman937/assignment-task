@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # first_fultter
 
 A new Flutter project.
@@ -17,4 +17,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 =======
 # assignment-task
->>>>>>> f484ccc3bdf344e84c1434c6ecce87c5cefe9a50
+
